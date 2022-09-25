@@ -25,7 +25,7 @@ I could practice and study:
 - Forms;
 - Labels, Ids and inputs;
 - Fieldset and Legend;
-- Creating styles for submit;
+- Styling forms, inputs and buttons;
 - Pseudo-classes;
 - Checkbox customization;
 - Validate inputs with html properties.
