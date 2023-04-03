@@ -11,24 +11,24 @@
   
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/jeadamek/crie-seu-evento?color=%231280BF">
   
- <!-- <a href="https://jeadamek.github.io/rocket-sect/"> ▶️ Access Project </a> -->
+ <!-- <a href="https://jeadamek.github.io/crie-seu-evento/"> ▶️ Access Project </a> -->
 </div>   
 
 ## ✏️ About
 
-This is a project developed on Stage 3 in the Explorer course at the [Rocketseat School](https://www.rocketseat.com.br/). To access the entire course's projects [click on this link](https://github.com/jeadamek/explorer-rocketseat).
+This project was developed on Stage 3 in the Explorer course at the [Rocketseat School](https://www.rocketseat.com.br/). To access the entire course's assignments click [this link](https://github.com/jeadamek/explorer-rocketseat).
 
-In this project, the objective was to create a desktop form, the main goal was to work different types of input.
+In this project, the objective was to create a desktop form, the main goal was to work with different input types.
 
 I could practice and study:
 
 - Forms;
-- Labels, Ids and inputs;
+- Labels, Ids, and inputs;
 - Fieldset and Legend;
-- Styling forms, inputs and buttons;
+- Creating styles for submit button;
 - Pseudo-classes;
 - Checkbox customization;
-- Validate inputs with html properties.
+- Validate inputs with HTML properties.
 
 The landing page can be seen in the image below:
 <br/>
@@ -57,4 +57,18 @@ To access the project's layout in Figma, click on the link below:
 
 🔗 [View on Figma](https://www.figma.com/file/HP81f4vgUcXAngmLYlIYhw/Explorer-Stage-03-Projeto-01-(Copy))
 
+## 📝 License
 
+This project is under the MIT license. See the file [LICENSE](LICENSE) for more details.
+
+
+## 🎯 Author
+
+<p>
+	Made by Jessica Adamek. Connect with me! 	
+</p>
+<div>
+  <a href="https://www.linkedin.com/in/jessica-adamek/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="A linkedin badge">
+  </a>  
+</div>
